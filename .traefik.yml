@@ -1,7 +1,7 @@
-displayName: Block User-Agent
+displayName: Allow User-Agent
 summary: Blocks HTTP requests with a User-Agent matching the configured regex.
 type: middleware
-import: github.com/EmergingPixels/traefik-plugin-allowuseragent
+import: github.com/WasimAhmad/traefik-plugin-allowuseragent
 compatibility: TODO
 testData:
   Regex:
